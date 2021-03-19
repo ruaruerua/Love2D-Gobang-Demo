@@ -1,0 +1,32 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"IMESupport",
+		"Lua Love",
+		"Markdown Preview",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"Theme - Soda",
+		"ZZZ"
+	]
+}

@@ -1,0 +1,1 @@
+copy /b love.exe+wuziqi.zip wuziqi.exe

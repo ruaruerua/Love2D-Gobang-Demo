@@ -1,0 +1,6 @@
+{
+    "selector": "source.lua",
+    "cmd": ["$packages/../../../love.exe", "${project_path:${file_path}}"],
+    "shell": true,
+    "file_regex": "^Error: (?:[^:]+: )?([^: ]+?):(\\d+):() ([^:]*)$"
+}

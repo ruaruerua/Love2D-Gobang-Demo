@@ -1,0 +1,6 @@
+[
+	{ "keys": ["f5"], "command": "build" },//调试love2C
+	{"keys": ["ctrl+shift+f"], "command": "reindent" , "args":
+	{"single_line": false}}
+	
+]
